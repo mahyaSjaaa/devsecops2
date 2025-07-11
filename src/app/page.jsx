@@ -6,6 +6,7 @@ export default function Home() {
       <p>HELLO DUNAI</p>
       <p>HALOOWW</p>
       <p>HALOW3</p>
+      <p>tes ci</p>
     </div>
   );
 }
