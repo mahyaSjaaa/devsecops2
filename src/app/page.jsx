@@ -10,6 +10,7 @@ export default function Home() {
       <p>lahh</p>
       <p>tes linterwoeee</p>
       <p>ssss</p>
+      <p>semgrep</p>
     </div>
   );
 }
