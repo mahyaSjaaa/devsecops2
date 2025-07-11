@@ -8,6 +8,8 @@ export default function Home() {
       <p>HALOW3</p>
       <p>tes ci</p>
       <p>lahh</p>
+      <p>tes linterwoeee</p>
+      <p>ssss</p>
     </div>
   );
 }
