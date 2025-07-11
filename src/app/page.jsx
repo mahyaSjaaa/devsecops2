@@ -7,6 +7,7 @@ export default function Home() {
       <p>HALOOWW</p>
       <p>HALOW3</p>
       <p>tes ci</p>
+      <p>lahh</p>
     </div>
   );
 }
