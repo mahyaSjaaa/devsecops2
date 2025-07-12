@@ -15,10 +15,12 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Run Gitleaks
         uses: gitleaks/gitleaks-action@v2
         with:
-          args: "--verbose --redact"
+          scan_args: "--verbose --redact"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
