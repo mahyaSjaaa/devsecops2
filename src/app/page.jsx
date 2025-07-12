@@ -11,6 +11,7 @@ export default function Home() {
       <p>tes linterwoeee</p>
       <p>ssss</p>
       <p>semgrep</p>
+      <p>tes protection</p>
     </div>
   );
 }
